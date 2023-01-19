@@ -2,11 +2,6 @@ body {
     text-align: center;
 }
 
-nav {
-    background-color: rgb(19, 126, 214);
-    padding: 10px;
-}
-
 a {
     color: white;
     margin: 40px;
@@ -30,3 +25,9 @@ p {
     background-color: white;
     color: steelblue;
 }
+
+nav {
+    background-color: rgb(19, 126, 214);
+    padding: 10px;
+}
+
