@@ -5,6 +5,7 @@ body {
 nav {
     background-color: rgb(177, 192, 204);
     padding: 10px;
+    font-size: medium;
 }
 
 a {
