@@ -25,3 +25,8 @@ img {
 p {
     padding: 10px;
 }
+
+#active {
+    background-color: white;
+    color: steelblue;
+}
