@@ -6,3 +6,9 @@ nav {
     background-color: rgb(19, 126, 214);
     padding: 10px;
 }
+
+a {
+    color: white;
+    margin: 40px;
+    line-height: 1.5em;
+}
